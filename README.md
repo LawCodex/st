@@ -45,8 +45,8 @@ the top of some files.
   portal without legislation; presidencia.st is a JavaScript-only site; parlamento.st, stj.st,
   tribunalconstitucional.st did not answer).
 * Of the PDFs on the Assembly website, 7 are scans with an unusable (garbled) OCR text layer and were skipped:
-  Lei n.º 11/90 (Lei Eleitoral), Lei n.º 2/90, Lei n.º 11/92, Lei n.º 6/96, Lei n.º 2/98, Lei n.º 7/91 (Lei
-  Orgânica) and Lei n.º 6/2013. Historical constitutional laws (1982, 1987, 1990) are offered only as ZIP
+  Lei n.º 11/90 (Lei Eleitoral), Lei n.º 2/90, Lei n.º 11/92, Lei n.º 6/96, Lei n.º 2/98, and the files
+  `LE1191007.pdf` (Lei Orgânica folder) and `LE2013006.pdf` (Estatuto de Deputado folder). Historical constitutional laws (1982, 1987, 1990) are offered only as ZIP
   archives: not included.
 * Constitutional amendments after 2003, if any, are not included.
 
